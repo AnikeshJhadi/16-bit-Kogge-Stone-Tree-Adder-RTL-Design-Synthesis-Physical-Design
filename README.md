@@ -1,0 +1,2 @@
+# 16-bit-Registered-Kogge-Stone-Tree-Adder-RTL-Design-Synthesis-Physical-Design
+A complete ASIC implementation of a 16-bit registered Kogge-Stone Tree Adder in Verilog, developed as part of EE671: VLSI Design, IIT Bombay. The repository includes RTL design, functional verification, Cadence Genus synthesis, Innovus physical design, post-synthesis RTL netlist, timing/area/power analysis, and post-layout simulation.
