@@ -29,11 +29,6 @@ The design registers both the inputs and outputs, making it suitable for pipelin
 │   ├── GROUP_61_ASSIGNMENT_3_REPORT.pdf
 │   └── GROUP_61_EE671_ASSIGNMENT_4_REPORT.pdf
 │
-├── screenshots/
-│   ├── layout.png
-│   ├── waveform.png
-│   ├── timing_report.png
-│   └── area_report.png
 │
 └── README.md
 ```
