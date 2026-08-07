@@ -8,7 +8,7 @@ This repository contains the implementation of a **16-bit Registered Kogge-Stone
 
 The objective of this project is to design, verify, and physically implement a **16-bit registered Kogge-Stone Tree Adder**, a high-performance parallel-prefix adder widely used in modern processors due to its logarithmic carry propagation delay.
 
-The design registers both the inputs and outputs, making it suitable for pipelined digital systems. Functional correctness is verified through simulation before and after synthesis, followed by ASIC implementation using Cadence Innovus. :contentReference[oaicite:2]{index=2}
+The design registers both the inputs and outputs, making it suitable for pipelined digital systems. Functional correctness is verified through simulation before and after synthesis, followed by ASIC implementation using Cadence Innovus. 
 
 ---
 
@@ -156,18 +156,6 @@ Key post-route metrics:
 | Total Area | 665.28 μm² |
 | Total Power | 1.042 μW |
 
-:contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
-
----
-
-## Future Improvements
-
-- Parameterizable N-bit Kogge-Stone Adder
-- Pipelined implementation for higher operating frequencies
-- FPGA implementation and benchmarking
-- Comparison with Brent-Kung, Han-Carlson, and Sklansky adders
-
----
 
 ## Author
 
