@@ -1,6 +1,6 @@
-# 16-bit Registered Kogge-Stone Tree Adder | RTL Design, Synthesis & Physical Design
+# 16-bit Kogge-Stone Tree Adder | RTL Design, Synthesis & Physical Design
 
-This repository contains the implementation of a **16-bit Registered Kogge-Stone Tree Adder (KSA)** developed as part of the **EE671: VLSI Design** course at the **Department of Electrical Engineering, IIT Bombay**. The project covers the complete ASIC design flow, including RTL design, functional verification, logic synthesis, physical design, and post-layout verification using industry-standard EDA tools.
+This repository contains the implementation of a **16-bit  Kogge-Stone Tree Adder (KSA)** developed as part of the **EE671: VLSI Design** course at the **Department of Electrical Engineering, IIT Bombay**. The project covers the complete ASIC design flow, including RTL design, functional verification, logic synthesis, physical design, and post-layout verification using industry-standard EDA tools.
 
 ---
 
